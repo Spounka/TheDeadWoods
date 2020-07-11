@@ -1,0 +1,5 @@
+<map id="SE::Graphics::Vertex" name="SE::Graphics::Vertex">
+<area shape="rect" id="node1" title="Representation of a 3D point / Vertex in the world." alt="" coords="36,109,191,136"/>
+<area shape="rect" id="node2" href="$structSE_1_1Vector2.html" title="a struct for representing 2D vectors." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node3" href="$structSE_1_1Vector3.html" title=" " alt="" coords="125,5,221,32"/>
+</map>
